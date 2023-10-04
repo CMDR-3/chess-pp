@@ -13,3 +13,5 @@ also this code is heavily undocumented.
 
 To build on Linux, just clone the repo and run "make"
 On Windows, you can just use mingw and use g++ to compile.
+
+Unfortunately, it does run on Windows, but the ASCII escape codes for the text doesn't work at all, so most of the time you wont be able to see the pieces.
